@@ -1,0 +1,10 @@
+uv.lock 
+.venv/
+.vscode/
+.idea/
+.python-version
+.env
+.env.dev
+.env.prod
+asciigen.egg-info/
+__pycache__/
